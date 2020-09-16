@@ -1,5 +1,5 @@
-#### 1. Name 
-Andrey, Lermontov 
+#### 1. Name  
+**ANDREY LERMONTOV**
 #### 2. **Contact Info** 
 * e-mail: lermontovav@gmail.com 
 * cell phone: +7(911)9357711

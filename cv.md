@@ -1,7 +1,8 @@
 #### 1. Name 
 Andrey, Lermontov 
 #### 2. **Contact Info** 
-e-mail: lermontovav@gmail.com, cell phone: +7(911)9357711
+* e-mail: lermontovav@gmail.com 
+* cell phone: +7(911)9357711
 #### 3. **Goals** 
 My goal is to get a new specialty in the field of programming. In particular, to master Front-end development at a level sufficient for employment in an IT company. 
 
